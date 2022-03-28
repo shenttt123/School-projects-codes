@@ -1,7 +1,3 @@
-"""
-UMass ECE 241   -   Advanced Programming
-Homework #3     -   Fall 2019
-hw3_q1_2019.py      -   Double-linked list
 Complete the following methods in the code below!
 search()
 add()
